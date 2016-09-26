@@ -1,0 +1,9 @@
+e:\documents\visual studio 2013\Projects\MyBulkLoader\MyBulkLoader\bin\Debug\MyBulkLoader.exe.config
+e:\documents\visual studio 2013\Projects\MyBulkLoader\MyBulkLoader\bin\Debug\MyBulkLoader.exe
+e:\documents\visual studio 2013\Projects\MyBulkLoader\MyBulkLoader\bin\Debug\MyBulkLoader.pdb
+e:\documents\visual studio 2013\Projects\MyBulkLoader\MyBulkLoader\obj\Debug\MyBulkLoader.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\MyBulkLoader\MyBulkLoader\obj\Debug\MyBulkLoader.formBulkLoad.resources
+e:\documents\visual studio 2013\Projects\MyBulkLoader\MyBulkLoader\obj\Debug\MyBulkLoader.Properties.Resources.resources
+e:\documents\visual studio 2013\Projects\MyBulkLoader\MyBulkLoader\obj\Debug\MyBulkLoader.csproj.GenerateResource.Cache
+e:\documents\visual studio 2013\Projects\MyBulkLoader\MyBulkLoader\obj\Debug\MyBulkLoader.exe
+e:\documents\visual studio 2013\Projects\MyBulkLoader\MyBulkLoader\obj\Debug\MyBulkLoader.pdb

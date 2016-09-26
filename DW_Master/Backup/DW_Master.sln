@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "DW_Master", "DW_Master\DW_Master.dtproj", "{DFE7ECA3-7784-45FD-BB7F-9F05D628EC8B}"
+EndProject
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "Archive", "Archive\Archive.dtproj", "{06F96C9F-48AE-4D2F-A2AC-AADDF873A263}"
+EndProject
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "Integration Services Project1", "Integration Services Project1\Integration Services Project1.dtproj", "{4995A95F-949C-4A59-92A3-20C777ED3495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE7ECA3-7784-45FD-BB7F-9F05D628EC8B}.Development|Default.ActiveCfg = Development
+		{DFE7ECA3-7784-45FD-BB7F-9F05D628EC8B}.Development|Default.Build.0 = Development
+		{06F96C9F-48AE-4D2F-A2AC-AADDF873A263}.Development|Default.ActiveCfg = Development
+		{06F96C9F-48AE-4D2F-A2AC-AADDF873A263}.Development|Default.Build.0 = Development
+		{4995A95F-949C-4A59-92A3-20C777ED3495}.Development|Default.ActiveCfg = Development
+		{4995A95F-949C-4A59-92A3-20C777ED3495}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
